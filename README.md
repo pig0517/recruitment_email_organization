@@ -1,0 +1,2 @@
+# recruitment_email_organization
+利用coze整理邮箱中的招聘邮件,在飞书多维表格和日历中显示
